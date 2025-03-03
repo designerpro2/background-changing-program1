@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(208, 100%, 97%);
+}
+#btn{
+    background-color: hsl(122, 39%, 49%);
+    color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1.2em;
+    padding-top: 1.2em;
+    border: bold;
+    cursor: pointer;
+    width: 15%;
+}
+#btn:hover{
+    background-color: hsl(122, 39%, 39%);
+}
+#btn1{
+    background-color: hsl(0, 90%, 48%);
+    color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1.2em;
+    padding-top: 1.2em;
+    border: bold;
+    cursor: pointer;
+    width: 15%;
+}
+#btn1:hover{
+    background-color: hsl(0, 90%, 38%);
+}
+#btn2{
+    background-color: hsl(249, 97%, 45%);
+    color: white;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1.2em;
+    padding-top: 1.2em;
+    border: bold;
+    cursor: pointer;
+    width: 15%;
+}
+#btn2:hover{
+
+    background-color: hsl(249, 97%, 35%);
+}
+#btn3{
+    background-color: hsl(0, 43%, 75%);
+    color: black;
+    font-size: 1em;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 1.2em;
+    padding-top: 1.2em;
+    border: bold;
+    cursor: pointer;
+    width: 15%;
+}
+#btn3:hover{
+    background-color: hsl(0, 43%, 55%);
+}
